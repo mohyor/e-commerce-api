@@ -1,0 +1,5 @@
+.env
+/src/logs
+/node_modules
+lessons.js
+tbc.js
